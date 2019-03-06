@@ -36,7 +36,6 @@ mvn install
 [source, xml]
 ----
 mv etc/datacollection/mib2.xml etc/examples/
-mv etc/snmp-graph.properties.d/mib2-graph.properties etc/examples/
 ----
 
 .Install the plugin
